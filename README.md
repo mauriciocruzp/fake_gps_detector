@@ -1,6 +1,6 @@
 # fake_gps_detector
 
-Fake GPS detector app using isMockLocation
+Fake GPS detector app using Geolocator package.
 
 ## Getting Started
 
